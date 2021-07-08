@@ -5,7 +5,7 @@ title: Useful Links & Tools
 
 Official resources:
 
-- Blockchain Explorer: https://explorer.elrond.com/
+- Blockchain Explorer: [https://explorer.elrond.com/](https://explorer.elrond.com/)
 - Wallet: [https://wallet.elrond.com](https://wallet.elrond.com/)
 - GitHub: https://github.com/ElrondNetwork
 - Docker: https://hub.docker.com/repository/docker/elrondnetwork/elrond-go-node
